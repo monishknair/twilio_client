@@ -1,0 +1,1 @@
+''' Encrypt Data being send to server and stored in db '''
